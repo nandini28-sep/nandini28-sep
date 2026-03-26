@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nandini 👋
 
-<!--
-**nandini28-sep/nandini28-sep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Physics Student
+💻 Currently learning C++ and DSA
+📈 Building consistency and problem-solving skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (Growing)
+
+* C++ (Basics)
+* Problem Solving (Beginner)
+
+
+## Current Focus
+
+* Practicing DSA daily
+* Building small C++ projects
+* Improving logic
+
+
+## 🚀 Goals
+
+* Master DSA
+* Build strong projects
+* Become placement-ready
+
+
+##  Progress
+
+* Started DSA journey
+* Setting up GitHub and portfolio
+* Building consistency
